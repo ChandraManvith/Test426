@@ -6,3 +6,4 @@ def sub(a,b):
 
 add(5,6)
 sub(10,7)
+print("Bye")
