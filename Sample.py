@@ -23,4 +23,5 @@ div(10,2)
 print("Bye")
 print("See you")
 print("Good night")
-print("I love you")
+>>>>>>> 7f62b92579bef31003499dd177bb0bd68f5b0687
+print("I hate you")
